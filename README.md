@@ -1,4 +1,4 @@
-# ford
+# Ford's enginge condition classification with LSTMs on univariate time series
 LSTM time series classification for Ford A and B datasets 
 The data is taken from
 http://timeseriesclassification.com/description.php?Dataset=FordA
